@@ -5,3 +5,4 @@ Course name: "The Complete Android N Developer Course".<br/>
 Lecturer: Rob Percival.<br/>
 https://www.udemy.com/user/robpercival/<br/>
 This app will take your location and display info on the screen: latitude, longitude, altitude, accuracy and address.<br/> 
+I have uploaded a sample image to show what display on the screen named "sample_app_visual.png"
